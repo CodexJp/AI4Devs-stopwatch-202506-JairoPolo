@@ -35,7 +35,6 @@ Crea una página web que permita a los usuarios utilizar un cronómetro y un tim
 * Manten todo el desarrollo dentro de los límites de los archivos actuales: @script.js y @index.html 
   -  @index.html  para la UI
   - @script.js   para el funcionamiento del cronómetro y el timer
-* Usa como referencia visual para la UI, la magen reversestring-example.png 
 
 ## Criterios Generales
 
